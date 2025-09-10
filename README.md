@@ -1,8 +1,11 @@
 # 📊 Projeto: Dashboard de Suporte de TI
 
+Link do projeto: https://app.powerbi.com/view?r=eyJrIjoiMjEyYWYzYTEtYmVkYi00ZjE1LWE4NDEtNGE1NTJhNjc0YTFjIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
+
 ## 📝 Descrição do projeto
 
 Este projeto teve como objetivo o desenvolvimento de um dashboard interativo com dados da área de TI da empresa, focado na análise dos chamados de suporte ao longo do tempo.
+
 
 ## 🎯 Contexto e objetivos
 
@@ -54,3 +57,7 @@ Uso de storytelling em dashboards para atender às solicitações do cliente.
 - 🤝 Soft Skills
 
 - 💼 Business
+
+
+<img width="930" height="522" alt="image" src="https://github.com/user-attachments/assets/70dd4237-a38f-44be-927d-211e75abc73d" />
+
